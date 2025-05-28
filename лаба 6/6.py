@@ -1,3 +1,4 @@
+# 26.	F(0) = F(1) = 1, F(n) = (-1)n*(F(n–1) /(2n)!-cos(F(n-2)+2)), при n > 1
 import math
 import timeit
 import pandas as pd
