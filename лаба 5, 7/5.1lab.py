@@ -1,3 +1,4 @@
+# Вариант 26. Вводятся К целых чисел. Составьте все возможные различные правильные дроби из этих чисел.
 import timeit
 from itertools import permutations
 from math import prod
